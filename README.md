@@ -9,4 +9,10 @@
   - Sensor de Chuva FC37 com módulo
   - Jumpers (macho-fêmea e fêmea-fêmea)
 
+##
 
+### 📝 Conhecimentos colocados em prática:
+  - Programação Arduino (lógica, leitura de sensor, controle de servo)
+  - Eletrônica básica (circuitos, sensores, atuadores)
+  - Processos de automação
+  - Prototipagem e montagem
