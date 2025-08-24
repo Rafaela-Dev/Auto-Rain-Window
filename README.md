@@ -16,3 +16,13 @@
   - Eletrônica básica (circuitos, sensores, atuadores)
   - Processos de automação
   - Prototipagem e montagem
+
+##
+
+### 💻 Resultado:
+https://github.com/user-attachments/assets/1288e8c1-bc7e-49b1-9cdf-fe8265dbcc8d
+
+##
+
+
+
