@@ -22,6 +22,9 @@
 ### 💻 Resultado:
 https://github.com/user-attachments/assets/1288e8c1-bc7e-49b1-9cdf-fe8265dbcc8d
 
+![montagem_projeto](https://github.com/user-attachments/assets/4f31f0ce-4442-4d98-9f8b-681ad78b6b70)
+
+
 ##
 
 
